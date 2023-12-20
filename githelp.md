@@ -53,3 +53,4 @@ git merge <Имя ветки>
 ```sh
 git branch -d <Имя ветки>
 ```
+ 
