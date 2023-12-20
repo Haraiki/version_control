@@ -47,5 +47,5 @@ git merge (Имя файла)
 ```
 Удаление ветки
 ```sh
-git branch -d (Имя файла)
+git branch -d (branch_name)
 ```
