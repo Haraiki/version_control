@@ -57,3 +57,15 @@ git branch -d <Имя ветки>
  ```sh
  git branch <Имя ветки>
  ```
+ Отправка репозитория на GitHub
+ ```sh
+ git push -u 
+ ```
+
+ Вставка репозитория с GitHub
+ ```sh
+ git clone 
+ ```
+```sh
+При первом push помощь с командами находяться на GitHub
+```
